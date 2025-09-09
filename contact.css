@@ -557,7 +557,7 @@ body.menu-open {
 .logo img {
   height: 60px;
   margin-right: 8px;
-  margin-left: 8px;
+  margin-left: 80px;
 }
 
 .logo-text {
@@ -1585,4 +1585,5 @@ input.error, select.error {
 
 
 /* Animation Section ends ----------------------------------------------------------------------------------------------------------------------------- */
+
 
